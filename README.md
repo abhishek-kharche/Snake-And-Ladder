@@ -11,16 +11,16 @@ Enter 1 to rotate a cube or 0 to quit <br>
 Random Number is 2<br>
 Position is 5<br>
 
-00     | 99     | 98 S79 | 97     | 96     | 95 S75 | 94     | 93 S73 | 92     | 91     | <br>
-81     | 82     | 83     | 84     | 85     | 86     | 87 S24 | 88     | 89     | 90     | <br>
-80 L00 | 79     | 78     | 77     | 76     | 75     | 74     | 73     | 72     | 71 L91 | <br>
-61     | 62 S19 | 63     | 64 S60 | 65     | 66     | 67     | 68     | 69     | 70     | <br>
-60     | 59     | 58     | 57     | 56     | 55     | 54 S34 | 53     | 52     | 51 L67 | <br>
-41     | 42     | 43     | 44     | 45     | 46     | 47     | 48     | 49     | 50     | <br>
-40     | 39     | 38     | 37     | 36     | 35     | 34     | 33     | 32     | 31     | <br>
-21 L42 | 22     | 23     | 24     | 25     | 26     | 27     | 28 L84 | 29     | 30     | <br>
-20     | 19     | 18     | 17 S 7 | 16     | 15     | 14     | 13     | 12     | 11     | <br>
- 1 L38 |  2    @|  3     |  4 L14 |  5    *|  6     |  7     |  8     |  9 L31 | 10     | <br>
+00&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 99&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 98 S79 &nbsp; | 97&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 96&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 95 S75 &nbsp; | 94&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 93 S73 &nbsp; | 92&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 91&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+81&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 82&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 83&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 84&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 85&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 86&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 87 S24 &nbsp; | 88&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 89&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 90&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+80 L00 &nbsp; | 79&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 78&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 77&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 76&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 75&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 74&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 73&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 72&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 71 L91 &nbsp; | <br>
+61&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 62 S19 &nbsp; | 63&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 64 S60 &nbsp; | 65&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 66&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 67&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 68&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 69&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 70&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+60&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 59&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 58&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 57&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 56&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 55&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 54 S34 &nbsp; | 53&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 52&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 51 L67 &nbsp; | <br>
+41&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 42&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 43&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 44&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 45&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 46&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 47&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 48&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 49&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 50&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+40&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 39&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 38&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 37&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 36&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 35&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 34&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 33&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 32&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 31&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+21 L42 &nbsp; | 22&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 23&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 24&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 25&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 26&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 27&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 28 L84 &nbsp; | 29&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 30&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+20&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 19&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 18&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 17 S 7 &nbsp; | 16&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 15&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 14&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 13&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 12&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 11&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+ &nbsp; 1 L38 &nbsp; |  &nbsp; 2&nbsp; &nbsp; &nbsp; @|  &nbsp; 3&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp; 4 L14 &nbsp; |  &nbsp; 5&nbsp; &nbsp; &nbsp; *|  &nbsp; 6&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp; 7&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp; 8&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp; 9 L31 &nbsp; | &nbsp; 10&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
 
 player 2's turn<br>
 Enter 1 to rotate a cube or 0 to quit 
