@@ -10,8 +10,8 @@ Enter 1 to rotate a cube or 0 to quit <br>
 1<br>
 Random Number is 2<br>
 Position is 5<br>
-<>
-00&nbsp&nbsp&nbsp&nbsp&nbsp| 99     | 98 S79 | 97     | 96     | 95 S75 | 94     | 93 S73 | 92     | 91     | <br>
+
+00     | 99     | 98 S79 | 97     | 96     | 95 S75 | 94     | 93 S73 | 92     | 91     | <br>
 81     | 82     | 83     | 84     | 85     | 86     | 87 S24 | 88     | 89     | 90     | <br>
 80 L00 | 79     | 78     | 77     | 76     | 75     | 74     | 73     | 72     | 71 L91 | <br>
 61     | 62 S19 | 63     | 64 S60 | 65     | 66     | 67     | 68     | 69     | 70     | <br>
